@@ -4,11 +4,14 @@
   "private": true,
   "homepage": "https://gaylonalfano.github.io/react-monsters-rolodex",
   "dependencies": {
-    "eslint-utils": "^1.4.1",
-    "gh-pages": "^2.1.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "@typescript-eslint/eslint-plugin": "^4.9.1",
+    "@typescript-eslint/parser": "^4.9.1",
+    "eslint": "^7.15.0",
+    "eslint-utils": "^1.4.3",
+    "gh-pages": "^2.2.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
